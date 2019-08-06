@@ -85,3 +85,4 @@ extension SkeletonCollectionDataSource {
         cell.showSkeleton(skeletonConfig: skeletonConfig)
     }
 }
+

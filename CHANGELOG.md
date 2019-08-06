@@ -15,6 +15,7 @@ All notable changes to this project will be documented in this file
 ### Improvements
 
 - Allow updating skeleton layers without recreating them: `updateSkeleton`, `updateGradientSkeleton`, `updateAnimatedSkeleton`, `updateAnimatedGradientSkeleton`. (thanks @eduardbosch)
+- Allow updating skeleton layers without recreating them (thanks @eduardbosch).
 
 ## [Debug (1.4)](https://github.com/Juanpe/SkeletonView/releases/tag/1.4)
 
